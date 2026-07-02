@@ -1,7 +1,5 @@
 <div align="center">
-
-# 🌐 Bulk Domain Generator
-
+# 🌐 Domain Forge
 ### Generate thousands of brandable, dictionary‑based domain names and export them to Namecheap‑ready CSV files — in seconds.
 
 <p>
