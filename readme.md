@@ -5,11 +5,11 @@
 ### Generate thousands of brandable, dictionary‑based domain names and export them to Namecheap‑ready CSV files — in seconds.
 
 <p>
-  <img src="https://img.shields.io/github/license/morpheusadam/bulk-domain-generator?style=for-the-badge&color=4c1" alt="License" />
-  <img src="https://img.shields.io/github/stars/morpheusadam/bulk-domain-generator?style=for-the-badge&color=ffca28" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/morpheusadam/bulk-domain-generator?style=for-the-badge&color=42a5f5" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/morpheusadam/bulk-domain-generator?style=for-the-badge&color=8e44ad" alt="Last commit" />
-  <img src="https://img.shields.io/github/repo-size/morpheusadam/bulk-domain-generator?style=for-the-badge&color=e67e22" alt="Repo size" />
+  <img src="https://img.shields.io/github/license/morpheusadam/DomainForge?style=for-the-badge&color=4c1" alt="License" />
+  <img src="https://img.shields.io/github/stars/morpheusadam/DomainForge?style=for-the-badge&color=ffca28" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/morpheusadam/DomainForge?style=for-the-badge&color=42a5f5" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/morpheusadam/DomainForge?style=for-the-badge&color=8e44ad" alt="Last commit" />
+  <img src="https://img.shields.io/github/repo-size/morpheusadam/DomainForge?style=for-the-badge&color=e67e22" alt="Repo size" />
 </p>
 
 <p>
@@ -69,7 +69,7 @@ Instead of brainstorming names one by one, you can produce **thousands of meanin
 ### Installation
 
 ```bash
-git clone https://github.com/morpheusadam/bulk-domain-generator.git
+git clone https://github.com/morpheusadam/DomainForge.git
 cd bulk-domain-generator
 ```
 
@@ -122,7 +122,7 @@ bulk-domain-generator/
 
 ## 🤝 Contributing
 
-Contributions are welcome! Open an [issue](https://github.com/morpheusadam/bulk-domain-generator/issues) or submit a pull request with new generation strategies, dictionaries, or improvements.
+Contributions are welcome! Open an [issue](https://github.com/morpheusadam/DomainForge/issues) or submit a pull request with new generation strategies, dictionaries, or improvements.
 
 ## 📜 License
 
@@ -151,8 +151,8 @@ Web developer & cheerful hacker · PHP · Laravel · Go
 
 ## ⭐ Star History
 
-<a href="https://star-history.com/#morpheusadam/bulk-domain-generator&Date">
-  <img src="https://api.star-history.com/svg?repos=morpheusadam/bulk-domain-generator&type=Date" alt="bulk-domain-generator — Star History Chart" width="70%" />
+<a href="https://star-history.com/#morpheusadam/DomainForge&Date">
+  <img src="https://api.star-history.com/svg?repos=morpheusadam/DomainForge&type=Date" alt="bulk-domain-generator — Star History Chart" width="70%" />
 </a>
 
 <div align="center">
