@@ -145,3 +145,20 @@ Web developer & cheerful hacker · PHP · Laravel · Go
 ⭐ **If this tool helped you find your dream domain, consider giving it a star!** ⭐
 
 </div>
+
+
+---
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#morpheusadam/bulk-domain-generator&Date">
+  <img src="https://api.star-history.com/svg?repos=morpheusadam/bulk-domain-generator&type=Date" alt="bulk-domain-generator — Star History Chart" width="70%" />
+</a>
+
+<div align="center">
+
+### If this project helps you, please give it a ⭐
+
+A star helps other developers discover **bulk-domain-generator** and supports continued development.
+
+</div>
